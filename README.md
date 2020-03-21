@@ -5,7 +5,7 @@ SO GUYS STEPS
 
 1- ADD A GIT REPO BY TYPING THE CODE 'git init' in the git bash on the project directory
 
-2- connect to the github repo by the command  'git remote add origin "https://github.com/bestin-07/NEW_PROJEC.git"
+2- connect to the github repo by the command  'git remote add origin "https://github.com/bestin-07/MARk1.git"
 
 3- nothin showed means succesfull
 
